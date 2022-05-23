@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Messenger Academy
 //
-//  Created by Brandon Richardson on 5/23/22.
+//  Created by Brandon Richardson B on 5/23/22.
 //
 
 import UIKit
